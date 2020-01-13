@@ -1,14 +1,11 @@
-on:
-  schedule:
-    "* * 15 * *"
-  push:
+on: [push]
 
 name: Build packages
 
 jobs:
   render:
     name: Build packages
-    runs-on: [ubuntu-latest, macOS-latest, windows-latest]
+    runs-on: windows-latest
     steps:
       - uses: actions/checkout@v1
       - uses: r-lib/actions/setup-r@v1
