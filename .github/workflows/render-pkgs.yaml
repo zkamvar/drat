@@ -22,9 +22,7 @@ jobs:
         run: |
           git config --global user.email "${{github.actor}}@gmail.com"
           git config --global user.name "Zhian N. Kamvar (bot)"
-          Rscript -e "print(system2('git config --list'))"
-        with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          Rscript -e "print(Sys.which('git'))"
       # - name: Push results
       #   run: |
       #     git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{ github.ref }} || echo "No changes to commit"
