@@ -13,5 +13,7 @@ jobs:
       run: echo Hello, world!
     - name: Run a multi-line script
       run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
+        git config --global user.email "${{github.actor}}@gmail.com"
+        git config --global user.name "Zhian N. Kamvar (bot)"
+        git config --list
+
