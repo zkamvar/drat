@@ -1,4 +1,8 @@
-on: [push]
+on:
+  push:
+    path:
+      packages.txt
+      .github/workflows/render-pkgs.yaml
 
 name: Build packages
 
@@ -12,6 +16,10 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install remotes
         run: Rscript -e "install.packages('remotes')"
+      - name: Setup Git
+        run: |
+          git config --global user.email "zkamvar@gmail.com"
+          git config --global user.name "Zhian N. Kamvar (bot)"
       - name: Install drat.builder 
         run: Rscript -e "remotes::install_github('richfitz/drat.builder')"
       - name: Update DRAT
