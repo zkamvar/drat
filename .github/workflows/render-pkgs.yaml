@@ -21,7 +21,7 @@ jobs:
       - name: Update DRAT
         run: |
           # git config --global user.email "${{github.actor}}@gmail.com"
-          # git config --global user.name "Zhian N. Kamvar (bot)"
+          git config --global user.name "[drat bot]"
           Rscript -e "drat.builder::build()"
           git log
           git status
