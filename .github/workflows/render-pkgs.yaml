@@ -20,11 +20,8 @@ jobs:
         run: Rscript -e "remotes::install_github('richfitz/drat.builder')"
       - name: Update DRAT
         run: |
-          # git config --global user.email "${{github.actor}}@gmail.com"
           git config --global user.name "[drat bot]"
           Rscript -e "drat.builder::build()"
-          git log
-          git status
       - name: Push results
         run: |
           git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{ github.ref }} || echo "No changes to commit"
