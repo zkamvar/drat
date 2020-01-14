@@ -1,0 +1,7 @@
+Package: aweek
+Version: 1.0.0
+Depends: R (>= 3.0)
+Suggests: testthat, stats, roxygen2, knitr, covr, spelling
+License: MIT + file LICENSE
+MD5sum: 8ec0144be2eff2ee2c6d04e5f58ef200
+NeedsCompilation: no
