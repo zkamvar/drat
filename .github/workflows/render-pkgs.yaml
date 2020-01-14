@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "0/5 * * * *"
+    - cron: "0 12 1,15 * *"
   push:
     path:
       packages.txt
