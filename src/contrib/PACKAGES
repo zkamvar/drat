@@ -1,3 +1,15 @@
+Package: adegenet
+Version: 2.1.2
+Depends: R (>= 2.14), methods, ade4
+Imports: utils, stats, grDevices, MASS, igraph, ape, shiny, ggplot2,
+        seqinr, parallel, spdep, boot, reshape2, dplyr (>= 0.4.1),
+        vegan
+Suggests: pegas, hierfstat, akima, maps, splancs, tripack, testthat,
+        poppr
+License: GPL (>= 2)
+MD5sum: ae8fd46ea2c193587e8c61899de00757
+NeedsCompilation: yes
+
 Package: aweek
 Version: 1.0.0
 Depends: R (>= 3.0)
