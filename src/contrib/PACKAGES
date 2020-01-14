@@ -28,3 +28,12 @@ Suggests: testthat, knitr, rmarkdown, poweRlaw, cowplot, RClone
 License: GPL-2 | GPL-3
 MD5sum: 54a1dd2783d7579cd66cad3190b51686
 NeedsCompilation: yes
+
+Package: repvar
+Version: 0.1.0
+Depends: R (>= 3.1.0)
+Imports: stats, graphics
+Suggests: testthat, covr, tibble, tidyr, dplyr, purrr, knitr, rmarkdown
+License: MIT + file LICENSE
+MD5sum: 48ee4f1d10210fb3322726c5201b14aa
+NeedsCompilation: no
