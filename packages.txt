@@ -1,4 +1,4 @@
 reconhub/aweek
 thibautjombart/adegenet
 grunwaldlab/poppr
-everhartlab/sclerotinia-review-2017/code/kop
+zkamvar/repvar
