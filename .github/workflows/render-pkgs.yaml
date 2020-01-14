@@ -9,7 +9,7 @@ name: Build packages
 jobs:
   render:
     name: Build packages
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
       - uses: r-lib/actions/setup-r@v1
