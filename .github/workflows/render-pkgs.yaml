@@ -8,7 +8,7 @@ name: Build packages
 
 jobs:
   render:
-    name: Build packages
+    name: Build packages on Ubuntu
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
@@ -25,3 +25,16 @@ jobs:
       - name: Push results
         run: |
           git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{ github.ref }} || echo "No changes to commit"
+    name: Test windows
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: r-lib/actions/setup-r@v1
+      - name: Install git2R
+        run: Rscript -e "install.packages('git2r')"
+      - name: Git2R status
+        run: Rscript -e "git2r::status()"
+      - name: Test adding file
+        run: |
+          Rscript -e "writeLines('what', 'thing'); r <- git2r::repository(); git2r::add(r, 'thing'); git2r::commit(r, '')"
+          git show
