@@ -37,5 +37,6 @@ jobs:
         run: Rscript -e "git2r::status()"
       - name: Test adding file
         run: |
+          git config --global user.name "[drat bot]"
           Rscript -e "writeLines('what', 'thing'); r <- git2r::repository(); git2r::add(r, 'thing'); git2r::commit(r, '')"
           git show
