@@ -23,6 +23,8 @@ jobs:
           git config --global user.email "${{github.actor}}@gmail.com"
           git config --global user.name "Zhian N. Kamvar (bot)"
           Rscript -e "drat.builder::build()"
+          git log
+          git status
       # - name: Push results
       #   run: |
       #     git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:${{ github.ref }} || echo "No changes to commit"
