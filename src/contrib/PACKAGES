@@ -19,14 +19,14 @@ MD5sum: 8ec0144be2eff2ee2c6d04e5f58ef200
 NeedsCompilation: no
 
 Package: poppr
-Version: 2.8.4
+Version: 2.8.5
 Depends: R (>= 2.15.1), adegenet (>= 2.0.0)
 Imports: stats, graphics, grDevices, utils, vegan, ggplot2, phangorn,
         ape (>= 3.1-1), igraph (>= 1.0.0), methods, ade4, pegas,
         polysat, dplyr (>= 0.4), rlang, boot, shiny, magrittr
 Suggests: testthat, knitr, rmarkdown, poweRlaw, cowplot, RClone
 License: GPL-2 | GPL-3
-MD5sum: 2590fcbb6037857f1e2a0d644f1b6755
+MD5sum: 258dcda77d6df7f0c5be1598739c3d9b
 NeedsCompilation: yes
 
 Package: repvar
