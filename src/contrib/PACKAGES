@@ -7,7 +7,7 @@ Imports: utils, stats, grDevices, MASS, igraph, ape, shiny, ggplot2,
 Suggests: pegas, hierfstat, akima, maps, splancs, tripack, testthat,
         poppr
 License: GPL (>= 2)
-MD5sum: 2dcb00936a27a13e0d123931008cd4f8
+MD5sum: 987773e5feff6f680ff855fbbb3fd91b
 NeedsCompilation: yes
 
 Package: aweek
