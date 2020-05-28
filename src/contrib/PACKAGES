@@ -37,3 +37,12 @@ Suggests: testthat, covr, tibble, tidyr, dplyr, purrr, knitr, rmarkdown
 License: MIT + file LICENSE
 MD5sum: 48ee4f1d10210fb3322726c5201b14aa
 NeedsCompilation: no
+
+Package: tinkr
+Version: 0.0.0.9000
+Imports: magrittr, commonmark (>= 1.6), xslt, xml2, glue, fs, yaml,
+        stringr, knitr, purrr
+Suggests: testthat, covr
+License: GPL-3
+MD5sum: 02f4e7a21d015a7375ef52c4d6f6f90c
+NeedsCompilation: no
