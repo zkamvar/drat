@@ -46,3 +46,12 @@ Suggests: testthat, covr
 License: GPL-3
 MD5sum: 02f4e7a21d015a7375ef52c4d6f6f90c
 NeedsCompilation: no
+
+Package: up2code
+Version: 0.0.0.9000
+Imports: fs, git2r, tinkr, xml2, purrr, glue, R6, lifecycle, xslt
+Suggests: testthat, withr, covr, knitr, rmarkdown, magrittr, dplyr,
+        crayon, tidygraph, ggraph, ggplot2, gt
+License: MIT + file LICENSE
+MD5sum: 9ec4a16273efb5ab4aa318823e394f2b
+NeedsCompilation: no
