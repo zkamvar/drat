@@ -26,7 +26,7 @@ Imports: stats, graphics, grDevices, utils, vegan, ggplot2, phangorn,
         polysat, dplyr (>= 0.4), rlang, boot, shiny, magrittr
 Suggests: testthat, knitr, rmarkdown, poweRlaw, cowplot, RClone
 License: GPL-2 | GPL-3
-MD5sum: 258dcda77d6df7f0c5be1598739c3d9b
+MD5sum: 36ee004da3758ea21266cca0f7406d85
 NeedsCompilation: yes
 
 Package: repvar
