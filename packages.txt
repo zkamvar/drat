@@ -2,3 +2,5 @@ reconhub/aweek
 thibautjombart/adegenet
 grunwaldlab/poppr
 zkamvar/repvar
+ropenscilabs/tinkr
+zkamvar/up2code
