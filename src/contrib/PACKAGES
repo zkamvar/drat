@@ -53,5 +53,5 @@ Imports: fs, git2r, tinkr, xml2, purrr, glue, R6, lifecycle, xslt
 Suggests: testthat, withr, covr, knitr, rmarkdown, magrittr, dplyr,
         crayon, tidygraph, ggraph, ggplot2, gt
 License: MIT + file LICENSE
-MD5sum: 9ec4a16273efb5ab4aa318823e394f2b
+MD5sum: 8de7ea1c558df089a6082d2c7e1a7e1c
 NeedsCompilation: no
