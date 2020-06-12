@@ -1,6 +1,6 @@
 reconhub/aweek
 thibautjombart/adegenet
-grunwaldlab/poppr
+grunwaldlab/poppr@main
 zkamvar/repvar
 ropenscilabs/tinkr
 zkamvar/up2code
