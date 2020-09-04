@@ -3,4 +3,7 @@ thibautjombart/adegenet
 grunwaldlab/poppr@main
 zkamvar/repvar
 ropenscilabs/tinkr
-zkamvar/up2code
+carpentries/pegboard
+carpentries/dovetail
+zkamvar/varnish@main
+zkamvar/sandpaper
