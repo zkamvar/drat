@@ -30,6 +30,15 @@ License: MIT + file LICENSE
 MD5sum: 8ec0144be2eff2ee2c6d04e5f58ef200
 NeedsCompilation: no
 
+Package: dovetail
+Version: 0.0.0.9000
+Imports: glue, knitr, roxygen2
+Suggests: covr, fs, pegboard, remotes, reticulate, rlang, rmarkdown,
+        testthat, withr, xml2
+License: MIT + file LICENSE
+MD5sum: 7f0ebdd8af2feda644b17de7f3764adb
+NeedsCompilation: no
+
 Package: pegboard
 Version: 0.0.0.9000
 Imports: fs, git2r, tinkr, xml2, purrr, glue, R6, lifecycle, xslt
