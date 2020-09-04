@@ -153,3 +153,9 @@ Suggests: testthat, withr, covr, knitr, rmarkdown, magrittr, dplyr,
 License: MIT + file LICENSE
 MD5sum: 80cd777e7258c7d3c7aea509cb78e1d9
 NeedsCompilation: no
+
+Package: varnish
+Version: 0.0.0.9001
+License: MIT + file LICENSE
+MD5sum: 00a48d7641be75a0692137e8746b105c
+NeedsCompilation: no
