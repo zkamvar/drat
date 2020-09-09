@@ -100,7 +100,7 @@ Imports: stats, graphics, grDevices, utils, vegan, ggplot2, phangorn,
         progressr
 Suggests: testthat, knitr, rmarkdown, poweRlaw, cowplot, RClone
 License: GPL-2 | GPL-3
-MD5sum: 2c1181b7c2980fa3ef2af4499bfbba91
+MD5sum: cdea281738e7fd602a43b86a98e96692
 NeedsCompilation: yes
 
 Package: poppr
