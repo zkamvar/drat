@@ -33,10 +33,10 @@ NeedsCompilation: no
 Package: dovetail
 Version: 0.0.0.9000
 Imports: glue, knitr, roxygen2
-Suggests: covr, fs, pegboard, remotes, reticulate, rlang, rmarkdown,
-        testthat, withr, xml2
+Suggests: covr, fs, pegboard (>= 0.0.0.9002), remotes, reticulate,
+        rlang, rmarkdown, testthat, withr, xml2
 License: MIT + file LICENSE
-MD5sum: 7f0ebdd8af2feda644b17de7f3764adb
+MD5sum: 44053ddb1f5e9b7901a057af54a67c1d
 NeedsCompilation: no
 
 Package: pegboard
