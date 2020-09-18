@@ -8,5 +8,5 @@ carpentries/dovetail
 zkamvar/varnish@main
 zkamvar/sandpaper
 r-lib/gert
-tidyverse/usethis
+r-lib/usethis
 r-lib/testthat
