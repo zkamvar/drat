@@ -229,7 +229,7 @@ Imports: cli, clipr (>= 0.3.0), crayon, curl (>= 2.7), desc, fs (>=
 Suggests: covr, knitr, magick, pkgdown (>= 1.4.0), rmarkdown, roxygen2,
         spelling (>= 1.2), styler (>= 1.2.0), testthat (>= 2.1.0)
 License: GPL-3
-MD5sum: f56707764f70a98604f0b0e83560731f
+MD5sum: 22f9bdf9c33daf7f952572b2bdad13c2
 NeedsCompilation: no
 
 Package: varnish
