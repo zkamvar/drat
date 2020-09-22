@@ -97,6 +97,16 @@ License: MIT + file LICENSE
 MD5sum: e2e391c3942172aa27e3f1e1ded026d4
 NeedsCompilation: no
 
+Package: pegboard
+Version: 0.0.0.9005
+Imports: fs, git2r, tinkr, xml2, purrr, glue, R6, lifecycle, xslt,
+        yaml, commonmark
+Suggests: testthat, withr, covr, knitr, rmarkdown, magrittr, dplyr,
+        crayon, tidygraph, ggraph, ggplot2, gt
+License: MIT + file LICENSE
+MD5sum: 1d145757e2c5776474398f83c7ec41ad
+NeedsCompilation: no
+
 Package: poppr
 Version: 2.8.3
 Depends: R (>= 2.15.1), adegenet (>= 2.0.0)
