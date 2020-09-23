@@ -104,7 +104,7 @@ Imports: fs, git2r, tinkr, xml2, purrr, glue, R6, lifecycle, xslt,
 Suggests: testthat, withr, covr, knitr, rmarkdown, magrittr, dplyr,
         crayon, tidygraph, ggraph, ggplot2, gt
 License: MIT + file LICENSE
-MD5sum: 1d145757e2c5776474398f83c7ec41ad
+MD5sum: 210a207fd79c10c2f62da8d47b4428f1
 NeedsCompilation: no
 
 Package: poppr
