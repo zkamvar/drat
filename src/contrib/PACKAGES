@@ -215,9 +215,9 @@ Package: tinkr
 Version: 0.0.0.9000
 Imports: magrittr, commonmark (>= 1.6), xslt, xml2, glue, fs, yaml,
         stringr, knitr, purrr
-Suggests: testthat, covr
+Suggests: testthat (>= 2.99.0.9000), covr
 License: GPL-3
-MD5sum: 83caccf99c79b18e8df8a558275e1772
+MD5sum: b24b2402105c1566bb6bf482a0a4e484
 NeedsCompilation: no
 
 Package: up2code
