@@ -48,6 +48,15 @@ License: MIT + file LICENSE
 MD5sum: a3e22deb0cfc323c10fe6cda2a1e7750
 NeedsCompilation: yes
 
+Package: gert
+Version: 0.3.9007
+Imports: askpass, credentials (>= 1.2.1), openssl (>= 1.4.1),
+        rstudioapi (>= 0.11), zip (>= 2.1.0)
+Suggests: spelling, knitr, rmarkdown, testthat
+License: MIT + file LICENSE
+MD5sum: 1a4de64aace0f89498d069c55ae79b97
+NeedsCompilation: yes
+
 Package: pegboard
 Version: 0.0.0.9000
 Imports: fs, git2r, tinkr, xml2, purrr, glue, R6, lifecycle, xslt
