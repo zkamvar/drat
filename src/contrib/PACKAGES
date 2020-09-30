@@ -305,7 +305,7 @@ Imports: cli, clipr (>= 0.3.0), crayon, curl (>= 2.7), desc, fs (>=
 Suggests: covr, knitr, magick, pkgdown (>= 1.4.0), rmarkdown, roxygen2,
         spelling (>= 1.2), styler (>= 1.2.0), testthat (>= 2.1.0)
 License: GPL-3
-MD5sum: 721043313beba841d6045ddbe47aec09
+MD5sum: d1671ddaba81631d6c8db800af92d2c3
 NeedsCompilation: no
 
 Package: varnish
