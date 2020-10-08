@@ -2,7 +2,7 @@ reconhub/aweek
 thibautjombart/adegenet
 grunwaldlab/poppr@main
 zkamvar/repvar
-ropenscilabs/tinkr
+ropensci/tinkr
 carpentries/pegboard@main
 carpentries/dovetail
 zkamvar/varnish@main

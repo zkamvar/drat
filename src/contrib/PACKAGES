@@ -81,7 +81,7 @@ Imports: askpass, credentials (>= 1.2.1), openssl (>= 1.4.1),
         rstudioapi (>= 0.11), zip (>= 2.1.0)
 Suggests: spelling, knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 0d8ccf4f88ddab029588993a0b623cad
+MD5sum: 1b57866ef4bb9be73de55c1f171d432a
 NeedsCompilation: yes
 
 Package: pegboard
@@ -312,7 +312,7 @@ Imports: brio, callr (>= 3.4.4), cli, crayon (>= 1.3.4), desc, digest,
 Suggests: covr, curl (>= 0.9.5), diffviewer (>= 0.1.0), knitr, mockery,
         rmarkdown, rstudioapi, shiny, usethis, vctrs (>= 0.1.0), xml2
 License: MIT + file LICENSE
-MD5sum: 8afe2824a71c3aa3e95547fa44acec17
+MD5sum: 4d8d2eea03b6af7080892295072434ce
 NeedsCompilation: yes
 
 Package: tinkr
@@ -321,7 +321,7 @@ Imports: magrittr, commonmark (>= 1.6), xslt, xml2, glue, fs, yaml,
         stringr, knitr, purrr
 Suggests: testthat (>= 2.99.0.9000), covr
 License: GPL-3
-MD5sum: b3e23606e1ab1ee1c0b14c6a0de58f0d
+MD5sum: 70d92dff9ca48e099fc8043fd57d17b4
 NeedsCompilation: no
 
 Package: up2code
@@ -344,7 +344,7 @@ Imports: cli, clipr (>= 0.3.0), crayon, curl (>= 2.7), desc, fs (>=
 Suggests: covr, knitr, magick, pkgdown (>= 1.4.0), rmarkdown, roxygen2,
         spelling (>= 1.2), styler (>= 1.2.0), testthat (>= 2.1.0)
 License: GPL-3
-MD5sum: 6fbd21282f4f1868bcf247f12b8a5f3d
+MD5sum: 3adbc717451b2116abbd6a54105d5c74
 NeedsCompilation: no
 
 Package: varnish
