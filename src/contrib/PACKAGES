@@ -81,7 +81,7 @@ Imports: askpass, credentials (>= 1.2.1), openssl (>= 1.4.1),
         rstudioapi (>= 0.11), zip (>= 2.1.0)
 Suggests: spelling, knitr, rmarkdown, testthat
 License: MIT + file LICENSE
-MD5sum: 0d8ccf4f88ddab029588993a0b623cad
+MD5sum: 1b57866ef4bb9be73de55c1f171d432a
 NeedsCompilation: yes
 
 Package: pegboard
