@@ -346,14 +346,14 @@ Package: usethis
 Version: 1.9.0.9000
 Depends: R (>= 3.2)
 Imports: cli, clipr (>= 0.3.0), crayon, curl (>= 2.7), desc, fs (>=
-        1.3.0), gert (>= 0.9100), gh (>= 1.1.0.9001), gitcreds (>=
+        1.3.0), gert (>= 1.0.0.9000), gh (>= 1.1.0.9001), gitcreds (>=
         0.0.0.9000), glue (>= 1.3.0), lifecycle, purrr, rematch2, rlang
         (>= 0.4.3), rprojroot (>= 1.2), rstudioapi, stats, utils,
         whisker, withr, yaml
 Suggests: covr, knitr, magick, pkgdown (>= 1.4.0), rmarkdown, roxygen2,
         spelling (>= 1.2), styler (>= 1.2.0), testthat (>= 2.1.0)
 License: GPL-3
-MD5sum: 3adbc717451b2116abbd6a54105d5c74
+MD5sum: 254e2a5ba3238d2b879ed8574a1f053d
 NeedsCompilation: no
 
 Package: varnish
