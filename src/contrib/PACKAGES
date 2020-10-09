@@ -321,7 +321,7 @@ Imports: magrittr, commonmark (>= 1.6), xslt, xml2, glue, fs, yaml,
         stringr, knitr, purrr
 Suggests: testthat (>= 2.99.0.9000), covr
 License: GPL-3
-MD5sum: 70d92dff9ca48e099fc8043fd57d17b4
+MD5sum: 7c694e9a267fa3904147b996e7348245
 NeedsCompilation: no
 
 Package: up2code
