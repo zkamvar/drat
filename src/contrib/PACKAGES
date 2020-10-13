@@ -321,7 +321,7 @@ Imports: brio, callr (>= 3.4.4), cli, crayon (>= 1.3.4), desc, digest,
 Suggests: covr, curl (>= 0.9.5), diffviewer (>= 0.1.0), knitr, mockery,
         rmarkdown, rstudioapi, shiny, usethis, vctrs (>= 0.1.0), xml2
 License: MIT + file LICENSE
-MD5sum: 0920088b568c3a8f2289ac16c00f1245
+MD5sum: 5578d0a464da57802170a7725e8eb178
 NeedsCompilation: yes
 
 Package: tinkr
