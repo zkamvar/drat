@@ -7,6 +7,6 @@ carpentries/pegboard@main
 carpentries/dovetail
 zkamvar/varnish@main
 zkamvar/sandpaper
-r-lib/gert
+r-lib/gh
 r-lib/usethis
 r-lib/testthat
