@@ -367,11 +367,11 @@ Depends: R (>= 3.2)
 Imports: cli, clipr (>= 0.3.0), crayon, curl (>= 2.7), desc, fs (>=
         1.3.0), gert (>= 1.0.1), gh (>= 1.1.0.9001), glue (>= 1.3.0),
         lifecycle, purrr, rematch2, rlang (>= 0.4.3), rprojroot (>=
-        1.2), rstudioapi, stats, utils, whisker, withr, yaml
+        1.2), rstudioapi, stats, utils, whisker, withr (>= 2.3.0), yaml
 Suggests: covr, knitr, magick, rmarkdown, roxygen2, spelling (>= 1.2),
         styler (>= 1.2.0), testthat (>= 2.1.0)
 License: GPL-3
-MD5sum: 15d65136b3fb4ab930d55f69746bbe65
+MD5sum: c9bb554430c19ff44f7c5a00a0c97c1e
 NeedsCompilation: no
 
 Package: varnish
