@@ -360,10 +360,10 @@ NeedsCompilation: yes
 Package: tinkr
 Version: 0.0.0.9000
 Imports: magrittr, commonmark (>= 1.6), xslt, xml2, glue, fs, yaml,
-        stringr, knitr, purrr
-Suggests: testthat (>= 2.99.0.9000), covr
+        stringr, knitr, purrr, R6
+Suggests: testthat (>= 3.0.0), covr, withr
 License: GPL-3
-MD5sum: b92f59331dd8f7366ae198576d4b90f9
+MD5sum: 161883617acf60451fc6d6d9debab765
 NeedsCompilation: no
 
 Package: up2code
