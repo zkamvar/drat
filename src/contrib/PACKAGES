@@ -102,6 +102,15 @@ License: MIT + file LICENSE
 MD5sum: e03b2dba937caa392382e5ae9ff6e887
 NeedsCompilation: no
 
+Package: gh
+Version: 1.1.0.9002
+Imports: cli (>= 2.0.1), gitcreds, httr (>= 1.2), ini, jsonlite
+Suggests: covr, knitr, rmarkdown, rprojroot, spelling, testthat (>=
+        2.3.2), withr
+License: MIT + file LICENSE
+MD5sum: 5c944d74f15b9776e85ad4b1557d3724
+NeedsCompilation: no
+
 Package: pegboard
 Version: 0.0.0.9000
 Imports: fs, git2r, tinkr, xml2, purrr, glue, R6, lifecycle, xslt
