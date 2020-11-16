@@ -4,9 +4,7 @@ grunwaldlab/poppr@main
 zkamvar/repvar
 ropensci/tinkr
 carpentries/pegboard@main
-carpentries/dovetail
 zkamvar/varnish@main
 zkamvar/sandpaper
 r-lib/gh
 r-lib/usethis
-r-lib/testthat
