@@ -347,7 +347,7 @@ Imports: pkgdown (>= 1.6.0), pegboard (>= 0.0.0.9007), commonmark,
 Suggests: testthat (>= 3.0.0), cli (>= 2.0.2), covr, withr, dovetail,
         varnish (>= 0.0.0.9001)
 License: MIT + file LICENSE
-MD5sum: 03a7c9c70434cbf6f813a4c2334fc1ae
+MD5sum: 60182e24d3ec376833663282e6a68ed0
 NeedsCompilation: no
 
 Package: testthat
