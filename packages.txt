@@ -5,6 +5,6 @@ zkamvar/repvar
 ropensci/tinkr
 carpentries/pegboard@main
 zkamvar/varnish@main
-zkamvar/sandpaper
+carpentries/sandpaper@ci-stuff
 r-lib/gh
 r-lib/usethis
