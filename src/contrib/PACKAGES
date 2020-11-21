@@ -344,10 +344,10 @@ Imports: pkgdown (>= 1.6.0), pegboard (>= 0.0.0.9007), commonmark,
         xml2, fs, gert (>= 1.0.1), rstudioapi, rlang (>= 0.4.3), glue,
         assertthat, yaml, desc, knitr, rmarkdown, rprojroot, usethis,
         utils, tools, whisker, callr
-Suggests: testthat (>= 3.0.0), cli (>= 2.0.2), covr, withr, dovetail,
-        varnish (>= 0.0.0.9001)
+Suggests: testthat (>= 3.0.0), cli (>= 2.0.2), covr, withr, varnish (>=
+        0.0.0.9001)
 License: MIT + file LICENSE
-MD5sum: 5a57e8ea52d69282fd862d31d3e41dc5
+MD5sum: c3cf4c5be4240c4a1b8dafeb35ddc78f
 NeedsCompilation: no
 
 Package: testthat
