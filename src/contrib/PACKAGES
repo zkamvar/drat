@@ -404,10 +404,10 @@ Imports: cli, clipr (>= 0.3.0), crayon, curl (>= 2.7), desc, fs (>=
         jsonlite, lifecycle, purrr, rappdirs, rlang (>= 0.4.3),
         rprojroot (>= 1.2), rstudioapi, stats, utils, whisker, withr
         (>= 2.3.0), yaml
-Suggests: covr, knitr, magick, rmarkdown, roxygen2, spelling (>= 1.2),
-        styler (>= 1.2.0), testthat (>= 2.1.0)
+Suggests: covr, knitr, magick, mockr, rmarkdown, roxygen2, spelling (>=
+        1.2), styler (>= 1.2.0), testthat (>= 3.0.0)
 License: MIT + file LICENSE
-MD5sum: b9683142e79102d11052ab4c0b670ef5
+MD5sum: 50319aac5c97ac4299e26e19c8909de9
 NeedsCompilation: no
 
 Package: varnish
