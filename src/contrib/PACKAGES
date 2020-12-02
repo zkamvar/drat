@@ -416,7 +416,7 @@ Imports: cli, clipr (>= 0.3.0), crayon, curl (>= 2.7), desc, fs (>=
 Suggests: covr, knitr, magick, mockr, rmarkdown, roxygen2, spelling (>=
         1.2), styler (>= 1.2.0), testthat (>= 3.0.0)
 License: MIT + file LICENSE
-MD5sum: b575d4021386c8dbac03262f1ccc2e07
+MD5sum: 50ad861b04eabfefdb0d1c1fb0f2350b
 NeedsCompilation: no
 
 Package: varnish
