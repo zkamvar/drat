@@ -117,7 +117,7 @@ Imports: cli (>= 2.0.1), gitcreds, httr (>= 1.2), ini, jsonlite
 Suggests: covr, knitr, rmarkdown, rprojroot, spelling, testthat (>=
         2.3.2), withr
 License: MIT + file LICENSE
-MD5sum: 127a0ca4a8e669d356af35741ad1043f
+MD5sum: f69e3359b0a78fd13773e537e669b14e
 NeedsCompilation: no
 
 Package: pegboard
