@@ -359,6 +359,18 @@ License: MIT + file LICENSE
 MD5sum: c9014d27062ed8749b9c9be91cb23764
 NeedsCompilation: no
 
+Package: sandpaper
+Version: 0.0.0.9007
+Imports: pkgdown (>= 1.6.0), pegboard (>= 0.0.0.9007), commonmark,
+        xml2, fs, gert (>= 1.0.1), rstudioapi, rlang (>= 0.4.3), glue,
+        assertthat, yaml, desc, knitr, rmarkdown, rprojroot, usethis,
+        utils, tools, whisker, callr
+Suggests: testthat (>= 3.0.0), cli (>= 2.0.2), covr, withr, jsonlite,
+        varnish (>= 0.0.0.9001)
+License: MIT + file LICENSE
+MD5sum: fec4fc34c3b90f05644b34a04e81e4dc
+NeedsCompilation: no
+
 Package: testthat
 Version: 2.99.0.9000
 Depends: R (>= 3.1)
