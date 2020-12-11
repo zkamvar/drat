@@ -431,6 +431,20 @@ License: MIT + file LICENSE
 MD5sum: fb5df1ee15f89c032c178a7a3e620448
 NeedsCompilation: no
 
+Package: usethis
+Version: 2.0.0.9000
+Depends: R (>= 3.2)
+Imports: cli, clipr (>= 0.3.0), crayon, curl (>= 2.7), desc, fs (>=
+        1.3.0), gert (>= 1.0.2), gh (>= 1.2.0), glue (>= 1.3.0),
+        jsonlite, lifecycle, purrr, rappdirs, rlang (>= 0.4.3),
+        rprojroot (>= 1.2), rstudioapi, stats, utils, whisker, withr
+        (>= 2.3.0), yaml
+Suggests: covr, knitr, magick, mockr, rmarkdown, roxygen2, spelling (>=
+        1.2), styler (>= 1.2.0), testthat (>= 3.0.0)
+License: MIT + file LICENSE
+MD5sum: 63c00209296832ddaea2bc2ac8ca3fa8
+NeedsCompilation: no
+
 Package: varnish
 Version: 0.0.0.9001
 License: MIT + file LICENSE
