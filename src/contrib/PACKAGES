@@ -363,12 +363,12 @@ Package: sandpaper
 Version: 0.0.0.9007
 Imports: pkgdown (>= 1.6.0), pegboard (>= 0.0.0.9007), commonmark,
         xml2, fs, gert (>= 1.0.1), rstudioapi, rlang (>= 0.4.3), glue,
-        assertthat, yaml, desc, knitr, rmarkdown, rprojroot, usethis,
-        utils, tools, whisker, callr
+        assertthat, yaml, desc, knitr, rmarkdown, rprojroot, usethis
+        (>= 2.0.0), utils, tools, whisker, callr
 Suggests: testthat (>= 3.0.0), cli (>= 2.0.2), covr, withr, jsonlite,
         varnish (>= 0.0.0.9001)
 License: MIT + file LICENSE
-MD5sum: ad3cd2bc91df4d12d2df20cd92fee1ee
+MD5sum: 9056caf34dc6e01749c1dcd585884229
 NeedsCompilation: no
 
 Package: testthat
