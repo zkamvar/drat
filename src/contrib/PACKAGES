@@ -216,7 +216,7 @@ Imports: fs, git2r, tinkr, xml2, purrr, glue, R6, lifecycle, xslt,
 Suggests: testthat, withr, covr, knitr, rmarkdown, magrittr, dplyr,
         crayon, tidygraph, ggraph, ggplot2, gt, rlang
 License: MIT + file LICENSE
-MD5sum: 385750e16439b9716db384e360030fc3
+MD5sum: 7aadc97adbd6906f23e799402f999339
 NeedsCompilation: no
 
 Package: poppr
