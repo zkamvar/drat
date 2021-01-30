@@ -402,7 +402,7 @@ Imports: pkgdown (>= 1.6.0), pegboard (>= 0.0.0.9007), commonmark,
 Suggests: testthat (>= 3.0.0), cli (>= 2.0.2), covr, withr, jsonlite,
         varnish (>= 0.0.0.9001)
 License: MIT + file LICENSE
-MD5sum: dfb590ccdb8470d8db26e0dcff7b479f
+MD5sum: 8461bf7c25a15ade5f7ba78153512bc5
 NeedsCompilation: no
 
 Package: testthat
